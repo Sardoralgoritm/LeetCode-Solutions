@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Databa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{752434F6-2EC2-4761-990E-959849085E4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{C279F3D2-7C7C-46CE-A96B-88E544429FAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{752434F6-2EC2-4761-990E-959849085E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{752434F6-2EC2-4761-990E-959849085E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{752434F6-2EC2-4761-990E-959849085E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C279F3D2-7C7C-46CE-A96B-88E544429FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C279F3D2-7C7C-46CE-A96B-88E544429FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C279F3D2-7C7C-46CE-A96B-88E544429FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C279F3D2-7C7C-46CE-A96B-88E544429FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
