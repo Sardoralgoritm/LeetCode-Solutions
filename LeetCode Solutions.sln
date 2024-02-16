@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String", "String\String.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{C279F3D2-7C7C-46CE-A96B-88E544429FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design", "Design\Design.csproj", "{8081C75D-9DE7-470E-8AD9-A1054F8844B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design", "Design\Design.csproj", "{8081C75D-9DE7-470E-8AD9-A1054F8844B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash Table", "Hash Table\Hash Table.csproj", "{A3C4EC76-4384-48AE-8C10-81F116CB53BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8081C75D-9DE7-470E-8AD9-A1054F8844B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8081C75D-9DE7-470E-8AD9-A1054F8844B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8081C75D-9DE7-470E-8AD9-A1054F8844B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
