@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design", "Design\Design.csproj", "{8081C75D-9DE7-470E-8AD9-A1054F8844B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash Table", "Hash Table\Hash Table.csproj", "{A3C4EC76-4384-48AE-8C10-81F116CB53BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash Table", "Hash Table\Hash Table.csproj", "{A3C4EC76-4384-48AE-8C10-81F116CB53BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Pointers", "Two Pointers\Two Pointers.csproj", "{4CB11A71-AC20-4898-B71E-FE11DC61431E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3C4EC76-4384-48AE-8C10-81F116CB53BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
