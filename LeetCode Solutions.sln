@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design", "Design\Design.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash Table", "Hash Table\Hash Table.csproj", "{A3C4EC76-4384-48AE-8C10-81F116CB53BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Pointers", "Two Pointers\Two Pointers.csproj", "{4CB11A71-AC20-4898-B71E-FE11DC61431E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Pointers", "Two Pointers\Two Pointers.csproj", "{4CB11A71-AC20-4898-B71E-FE11DC61431E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy", "Greedy\Greedy.csproj", "{65C1387D-D02A-465F-B308-6F44A7066E43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CB11A71-AC20-4898-B71E-FE11DC61431E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C1387D-D02A-465F-B308-6F44A7066E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C1387D-D02A-465F-B308-6F44A7066E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C1387D-D02A-465F-B308-6F44A7066E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C1387D-D02A-465F-B308-6F44A7066E43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
