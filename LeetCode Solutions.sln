@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greedy", "Greedy\Greedy.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamic Programming", "Dynamic Programming\Dynamic Programming.csproj", "{09BDCF2A-7FD3-400A-8BEF-2FF42A88FB37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked List", "Linked List\Linked List.csproj", "{6A067FEF-504A-439F-95FA-47E7BECE66DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linked List", "Linked List\Linked List.csproj", "{6A067FEF-504A-439F-95FA-47E7BECE66DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting", "Counting\Counting.csproj", "{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{6A067FEF-504A-439F-95FA-47E7BECE66DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A067FEF-504A-439F-95FA-47E7BECE66DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A067FEF-504A-439F-95FA-47E7BECE66DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
