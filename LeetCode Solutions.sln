@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamic Programming", "Dyna
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linked List", "Linked List\Linked List.csproj", "{6A067FEF-504A-439F-95FA-47E7BECE66DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting", "Counting\Counting.csproj", "{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting", "Counting\Counting.csproj", "{6AA830D8-BB48-4C4D-9EEE-D0902CB28ACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Search", "Binary Search\Binary Search.csproj", "{B76808C6-6722-4D76-8027-DB01579958D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary Search", "Binary Search\Binary Search.csproj", "{B76808C6-6722-4D76-8027-DB01579958D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{8313DCF6-5B08-4DCF-9FD7-62D416C044DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B76808C6-6722-4D76-8027-DB01579958D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B76808C6-6722-4D76-8027-DB01579958D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B76808C6-6722-4D76-8027-DB01579958D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8313DCF6-5B08-4DCF-9FD7-62D416C044DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8313DCF6-5B08-4DCF-9FD7-62D416C044DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8313DCF6-5B08-4DCF-9FD7-62D416C044DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8313DCF6-5B08-4DCF-9FD7-62D416C044DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
